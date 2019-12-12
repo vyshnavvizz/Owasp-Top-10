@@ -1,9 +1,3 @@
-### Description
-
-A web vulnerability which allows the attacker to interfere with the way the XML data is parsed and processed by the server, and can manipulate this to manipulate this to view files in the file system, interact with backend or external applications within the server.
-
-
-
  ###  XML  
  XML (extensible markup language) is a language designed for storing and transporting data. Like HTML, XML uses a tree-like structure of tags and data.
   
