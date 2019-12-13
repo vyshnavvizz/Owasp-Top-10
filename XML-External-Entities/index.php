@@ -24,7 +24,7 @@ function XMLFunction(){
 <fieldset>
 <legend>Signup</legend>
 <center>
-Name : <input id="email" type="email"/></br></br>
+Email : <input id="email" type="email"/></br></br>
 Password : <input id="password" type="password" /></br></br>
 <button id="signup" onclick="XMLFunction()">Register</button>
 </center>
