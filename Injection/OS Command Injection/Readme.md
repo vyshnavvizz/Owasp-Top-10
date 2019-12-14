@@ -4,6 +4,6 @@ OS command injection (also known as shell injection) is a web security vulnerabi
 
 
 
-refers : 
-	- https://www.owasp.org/index.php/Top_10-2017_A1-Injection
-	- https://github.com/PortSwigger/command-injection-attacker/blob/master/README.md
+refers :
+-  https://www.owasp.org/index.php/Top_10-2017_A1-Injection
+-  https://github.com/PortSwigger/command-injection-attacker/blob/master/README.md
