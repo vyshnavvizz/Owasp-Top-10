@@ -14,3 +14,17 @@ XML external entity injection (also known as XXE) is a web security vulnerabilit
  -  Prevent XXE vulnerabilities : [https://cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
 
 refers : https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE)
+
+### Issue
+
+During the `Signup` it is possible to include XXE payload which will be executed on the server.
+
+### Exploit 
+
+![IMG.png](https://raw.githubusercontent.com/V1dhun/IMAGES/master/Owasp-Top-10/XML-External-Entities/Screenshot%20at%202019-12-17%2010-19-45.png)
+
+Payload : ``<!DOCTYPE email [<!ENTITY test SYSTEM 'file:///etc/passwd'>]><root><email>&test;</email></root>``
+
+### Fix
+
+Add `libxml_disable_entity_loader(TRUE) `, This will disable the ability to load external entities
