@@ -12,7 +12,7 @@ refers :
 
 OS Command Injection server which took advantage on endpoint `view` that allow OS command execution through a maliciously crafted command line argument..
 
-### Expolit
+### Exploit
 
 By viewing `mail.log` user can execute os commands 
 

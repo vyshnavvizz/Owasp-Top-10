@@ -8,7 +8,7 @@ refers : https://portswigger.net/web-security/cross-site-scripting/dom-based
 
 Attacker can inject malicious script from  ```user``` URL parameter
 
-### Expolit
+### Exploit
 Attacker can supply malicious script in user parameter
 
 PAYLOAD : ```user=Hecker<script>alert('PWNED')</script>```

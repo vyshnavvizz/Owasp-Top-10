@@ -8,6 +8,6 @@ refers : https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguratio
 
 an attacker can access the dashboard using default login password
 
-### Expolit 
+### Exploit 
 
 login using username:admin and password:admin

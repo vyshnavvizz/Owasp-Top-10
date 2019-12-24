@@ -8,7 +8,7 @@ refers : https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure
 
 information disclosure on server which took advantage on endpoint `user` that allowed the viewing of sensitive information on the server.
 
-### Expolit
+### Exploit
 
 * User logged as "Manu",but here Manu can view the other users information
 

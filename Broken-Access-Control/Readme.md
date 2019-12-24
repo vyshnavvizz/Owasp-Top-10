@@ -8,7 +8,7 @@ refers : https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control
 
 By setting admin cookie, user can view the admin privileged dashboard
 
-### Expolit
+### Exploit
 
 set cookie `"admin"="TRUE"` , can view the admin privileged dashboard
 
