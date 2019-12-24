@@ -46,4 +46,4 @@ Server reject anything that doesn't match with the white listed host
 
 - Other resources :
 
-Video about php deserialization : https://www.youtube.com/watch?v=HaW15aMzBUM
+  Video about php deserialization : https://www.youtube.com/watch?v=HaW15aMzBUM
