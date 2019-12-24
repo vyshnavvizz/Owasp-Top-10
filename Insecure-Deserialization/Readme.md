@@ -10,7 +10,7 @@ refers :
 
 It is possible to Host Header Injection on server and it will reflect in web page.
 
-### Expolit 
+### Exploit 
 
 
 ```console

@@ -8,7 +8,7 @@ refers :  https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication
 
 Normal user can access the admin privileged profile page by editing the cookie
 
-### Expolit
+### Exploit
 
 Change the cookie `"admin"=TRUE` , can access admin privileged profile page 
 

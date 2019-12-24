@@ -8,7 +8,7 @@ Refers : https://portswigger.net/web-security/cross-site-scripting/reflected
 
 Attacker can inject malicious script from ``user`` URL parameter
 
-### Expolit
+### Exploit
 
 Attacker can supply malicious script in user parameter 
 
