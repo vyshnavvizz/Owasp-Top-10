@@ -32,4 +32,4 @@ refers : https://www.rapid7.com/db/modules/exploit/multi/http/tomcat_mgr_upload
 
 ### Fix 
 
-Don't use default paswords and Upgrade tomcat with new version
+Don't use default passwords and Upgrade tomcat with new version
