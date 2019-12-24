@@ -8,7 +8,7 @@ refers : https://portswigger.net/web-security/cross-site-scripting/stored
 
 While editing username attacker can inject malicious script and it will run when rendering index.php
 
-### Expolit 
+### Exploit
 
 Attacker can enter malicious script in input [``username``] 
 
