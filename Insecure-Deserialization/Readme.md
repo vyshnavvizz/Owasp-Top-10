@@ -41,3 +41,6 @@ Content-type: text/html; charset=UTF-8
 ### Fix 
 
 Server reject anything that doesn't match with the white listed host 
+
+
+Video about php deserialization : https://www.youtube.com/watch?v=HaW15aMzBUM
